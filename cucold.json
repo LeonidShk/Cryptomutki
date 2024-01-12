@@ -1,0 +1,15 @@
+{
+    "chainId": 101,
+    "address": "48ev9SQ3kWxDiz6TYcQN4TuE34t5YN7xBfJ9JT5asYgr",
+    "symbol": "CLDC",
+    "name": "Cuckold Coin",
+    "decimals": 9,
+    "logoURI": "https://github.com/LeonidShk/Cryptomutki/blob/main/LogoCuck.png",
+    "tags": [
+      "social-token"
+    ],
+    "extensions": {
+      "telegram": "https://t.me/djksksksksm",
+      "website": "https://cryptocurrencycuckold.mydurable.com"
+    }
+  }
